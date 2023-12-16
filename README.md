@@ -1,4 +1,4 @@
-# ntx2
+# note app built by khalid abdul baset via flutter tech
 
 A new Flutter project.
 
